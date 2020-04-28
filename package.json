@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/oscarzatell/probable-octo-parakeet#readme",
   "dependencies": {
+    "expo-cli": "^3.19.2",
     "yarn": "^1.22.4"
   }
 }
